@@ -1,6 +1,6 @@
 ## How to use?
 
-Put the following code into your HTML file:
+Put the following code into your HTML file inside the body tag:
 
 ```html
 <weather-widget />
